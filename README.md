@@ -5,4 +5,4 @@ I have over 3 years of experience in developing commercial CMS systems in django
 Always searching for better solutions to my issues or code improvements, it might somehow work but does it work in the most optimal way? If not, we are meant to change that.
 
 ## You can find me here: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paweł-piotrowski-a2b2b522b)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pawelpiotrowskipl)  
